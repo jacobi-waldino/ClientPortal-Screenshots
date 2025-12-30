@@ -1,6 +1,6 @@
 ## Client Portal Screenshots
 
-Screenshots of some of the pages/features I worked on as part of the Glas Ocean Electric's Client Portal. More details about the project are available in my resume. Live demo of the production page could be given as part of a interview upon request.
+Screenshots of some of the pages/features I worked on as part of the Glas Ocean Electric's Client Portal. More details about the project are available in my resume. Live demo of the production page could be given as part of a interview upon request. Source code is not available.
 
 ### Tracking Page
 <img width="1920" height="1200" alt="TrackerPage" src="https://github.com/user-attachments/assets/4a2efc23-14fa-49e8-a36b-6b5d0fe1be80" />
